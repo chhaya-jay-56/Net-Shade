@@ -13,4 +13,6 @@ A lightweight Chrome extension to remove **"Promoted"** and **"Card Ads"** posts
 5. Click **Load unpacked**
 6. Select the folder you just unzipped
 
+## here is YT tutorial if you occur any problem Link - https://youtu.be/xiT8c8M1OIw?si=n9BY2P_07Gvxfy_o
+
 
