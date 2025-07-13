@@ -16,12 +16,14 @@ A lightweight Chrome extension to remove **"Promoted"** and **"Card Ads"** posts
 structre like this 
 
 Net-Shade-main/
-└── Net-Shade-main/ ( select this folder when you load unpacked )
+└── Net-Shade-main/      ← select this folder when loading unpacked
     ├── manifest.json
     ├── content.js
     ├── background.js
     ├── popup.html
-    ├── popup.js
+    └── popup.js
+
+    
 
 ## 🔗 here is YT tutorial if you occur any problem 
 
