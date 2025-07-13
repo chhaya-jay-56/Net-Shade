@@ -19,6 +19,7 @@ A lightweight Chrome extension to remove **"Promoted"** and **"Card Ads"** posts
     
 <img width="646" height="252" alt="Screenshot 2025-07-13 093729" src="https://github.com/user-attachments/assets/8e2711f4-febc-4a86-b111-c3aaec48e9f7" />
 
+## Refresh the page if it's don't work at first
 
 ## 🔗 here is YT tutorial if you occur any problem 
 
