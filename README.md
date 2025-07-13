@@ -13,9 +13,10 @@ A lightweight Chrome extension to remove **"Promoted"** and **"Card Ads"** posts
 5. Click **Load unpacked** ( in this stage you have to select most inner folder in zip where Net_Shade written other wise it cause error )
 6. Select the most inner folder you just unzipped
 
+<img width="1919" height="954" alt="Screenshot 2025-07-13 092838" src="https://github.com/user-attachments/assets/1029056f-ebad-4906-bc3b-da93cc0332bc" />
+
     
 <img width="646" height="252" alt="Screenshot 2025-07-13 093729" src="https://github.com/user-attachments/assets/8e2711f4-febc-4a86-b111-c3aaec48e9f7" />
-    
 
 ## 🔗 here is YT tutorial if you occur any problem 
 
