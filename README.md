@@ -4,13 +4,13 @@
 
 A lightweight Chrome extension to remove **"Promoted"** and **"Card Ads"** posts from your LinkedIn feed — giving you a cleaner and distraction-free experience.
 
-## 🔧 How to Install (Manual)
+## 🔧 How to Install
 
 1. DOWNLOAD THE ZIP FILE NAMED Net_Shade.zip ( don't downlaod repo zip )
 2. Unzip the folder on your computer
 3. Open Chrome and visit `chrome://extensions/`
 4. Enable **Developer Mode** (top right)
-5. Click **Load unpacked** ( in this stage you have to select most inner folder in zip where Net_Shade written other wise it cause error )
+5. Click **Load unpacked** ( in this stage you have to select most inner folder in zip where Net_Shade or Extension written other wise it cause error )
 6. Select the most inner folder you just unzipped
 
 <img width="1919" height="954" alt="Screenshot 2025-07-13 092838" src="https://github.com/user-attachments/assets/1029056f-ebad-4906-bc3b-da93cc0332bc" />
